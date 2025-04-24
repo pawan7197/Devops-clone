@@ -1,0 +1,7 @@
+🔧 DevOps Daily Commands
+
+1. Check Docker version: docker --version
+2. Check Git version: git --version
+3. List all containers: docker ps -a
+4. Start Jenkins container: docker start jenkins
+5. Clone a GitHub repo: git clone <repo_url>
