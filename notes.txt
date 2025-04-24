@@ -1,0 +1,2 @@
+Devops is a combination of development and operations.
+it aims for faster delivery, automation, and continuation improvement.
